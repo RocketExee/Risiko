@@ -1,0 +1,4 @@
+Start learning how to generate the main menu first.
+Think about art last, just do something that works as intended, like a page with a "insert name", "choose color"
+Try and see if you can make a button like "start" actually work and bring you to another page, or do something
+Then go on with it and if you really feel it necessary, make the menu art and aspect better, as much as you can
